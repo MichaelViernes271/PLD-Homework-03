@@ -5,17 +5,11 @@ Author: Viernes, Michael E.
 Submitted to: Mr. Madrigalejos
 Submission on: November 5, 2021
 
-SIDE NOTE:
+Instructions:
 
-Good day, Sir Madrigalejos;
+Assignment 3
 
-    I would like to ask for your advice for my git bash since it cannot upload in 
-    my github account even with ssh keys and tokens. The reference article can be 
-    linked here: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token. 
-    May I ask the propcedure appropriate to my situation?
-    Thank you very much!
-    
-    
-    Sincerely,
-    
-    Michael E. Viernes
+- Create a new repository in github
+- Redo the programs on assignment2 but now with functions
+- Upload the program in the newly created github repository. (1 file per program)
+- All program should be submitted before Nov 6.
